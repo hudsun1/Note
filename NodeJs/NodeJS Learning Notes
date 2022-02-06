@@ -1,0 +1,21 @@
+NodeJS Notes
+
+Global Objects
+
+setTimeout()
+- Call a function after a delay 1 - 2 sec
+
+clearTimeout()
+- Clear Timeout
+
+setInterval()
+- Repetitively call a function after a delay
+
+clearInterval()
+- Stop the function from being called after being delayed
+
+Global vs Window 
+https://youtu.be/TlB_eWDSMt4?t=1018
+
+Global takes the all the global scope
+Window takes the scope of the file eg : var message = ''
